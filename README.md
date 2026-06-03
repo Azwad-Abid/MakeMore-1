@@ -46,4 +46,4 @@ They're not perfect, but you can kinda see it learning English-like phonetics.
   
 ## Code
 
-Everything's in the Jupyter notebook. It's messy but it works.
+Everything's in the  notebook. It's messy but it works.
